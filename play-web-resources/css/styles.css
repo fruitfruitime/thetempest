@@ -237,5 +237,5 @@ ul li ul {
 
 audio {
   width:80%;
-  display: block;
+  position: absolute;
 }
