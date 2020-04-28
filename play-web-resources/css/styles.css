@@ -237,5 +237,8 @@ ul li ul {
 
 audio {
   width:80%;
-  position: absolute;
+  position: relative;
+  padding-bottom: 56.25%;
+	padding-top: 30px;
+  margin-bottom: 12px;
 }
