@@ -235,6 +235,7 @@ ul li ul {
 }
 
 audio {
- display: block;
+width: 100%;
+ display:block;
  height: 60px;
 }
