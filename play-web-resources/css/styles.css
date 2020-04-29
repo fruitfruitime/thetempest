@@ -235,6 +235,7 @@ ul li ul {
 }
 
 div.audio-box {
+position: fixed;
 height: 30%;
 margin-bottom: 12px;
 }
