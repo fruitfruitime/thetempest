@@ -234,8 +234,6 @@ ul li ul {
 	height: 100%;
 }
 
-div.audio-box {
-position: fixed;
-height: 30%;
-margin-bottom: 12px;
+audio {
+  width:100%;
 }
